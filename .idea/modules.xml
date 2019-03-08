@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TakeOut.iml" filepath="$PROJECT_DIR$/.idea/modules/TakeOut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TakeOut_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TakeOut_main.iml" group="TakeOut" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TakeOut_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TakeOut_test.iml" group="TakeOut" />
+    </modules>
+  </component>
+</project>
