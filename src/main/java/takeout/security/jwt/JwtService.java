@@ -2,7 +2,7 @@ package takeout.security.jwt;
 
 import io.jsonwebtoken.Claims;
 import org.springframework.security.core.userdetails.UserDetails;
-import takeout.entity.User;
+import takeout.entity.account.User;
 
 import java.util.Date;
 

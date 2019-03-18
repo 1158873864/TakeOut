@@ -4,8 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
-import takeout.dao.UserDao;
-import takeout.entity.User;
+import takeout.dao.account.UserDao;
+import takeout.entity.account.User;
 
 import java.util.Collections;
 import java.util.Optional;

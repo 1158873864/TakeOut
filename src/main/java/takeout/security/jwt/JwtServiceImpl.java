@@ -3,7 +3,7 @@ package takeout.security.jwt;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
-import takeout.entity.User;
+import takeout.entity.account.User;
 import takeout.publicdatas.account.Role;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.userdetails.UserDetails;
